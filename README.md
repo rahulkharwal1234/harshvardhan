@@ -1,4 +1,4 @@
 # harshvardhan
-this is my first Get Repository
+this is my first Git Repository
 <br>
 Author - Harsh Vardhan
